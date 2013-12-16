@@ -1,5 +1,5 @@
-{
-  "name": "codebug",
+{.
+  "name": "codebug.mixin",
   "version": "0.1.0",
   "description": "Open the current document in Codebug",
   "main": "init.js",
