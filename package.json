@@ -1,32 +1,38 @@
 {
-  "name": "codebug",
-  "version": "0.1.0",
-  "description": "Open the current document in Codebug",
-  "main": "init.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/shrop/codebug.chocmixin.git"
+  "name" : "codebug",
+  "version" : "0.1.0",
+  "description" : "Open the current document in Codebug",
+  "homepage" : "https://github.com/shrop/codebug.chocmixin",
+  "main" : "init.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/shrop/codebug.chocmixin.git"
   },
   "author": {
-    "name": "Mark Shropshire",
-    "email": "mdshrops@shropnet.net",
-    "url": "http://mark.shropshires.net"
+    "name" : "Mark Shropshire",
+    "email" : "mdshrops@shropnet.net",
+    "url" : "http://mark.shropshires.net"
   },
-  "contributors": [
+  "contributors" : [
     {
-      "name": "Mark Shropshire",
-      "email": "mdshrops@shropnet.net",
-      "url": "http://mark.shropshires.net"
+      "name" : "Mark Shropshire",
+      "email" : "mdshrops@shropnet.net",
+      "url" : "http://mark.shropshires.net"
     }
   ],
-  "bugs": {
-    "url": "http://github.com/shrop/codebug.mixin/issues"
+  "bugs" : {
+    "url" : "http://github.com/shrop/codebug.mixin/issues"
   },
-  "keywords": [
+  "keywords" : [
+    "chocolat",
     "codebug",
     "php",
     "xdebug"
   ],
-  "homepage": "https://github.com/shrop/codebug.chocmixin",
-  "license": "MIT"
+  "licenses" : [
+    {
+      "type" : "MIT",
+      "url" : "https://github.com/shrop/codebug.chocmixin/blob/master/LICENSE.md"
+    }
+  ]
 }
