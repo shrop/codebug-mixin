@@ -1,0 +1,18 @@
+{
+  "name": "codebug",
+  "version": "0.1.0",
+  "description": "Open the current document in Codebug",
+  "main": "init.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shrop/codebug.chocmixin.git"
+  },
+  "keywords": [
+    "codebug",
+    "php",
+    "xdebug"
+  ],
+  "author": "Mark Shropshire <mdshrops@shropnet.net>",
+  "homepage": "http://mark.shropshires.net",
+  "license": "MIT"
+}
