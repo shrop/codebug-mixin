@@ -9,7 +9,7 @@ Open the current file in Codebug
 * via Chocolat
   * Select "Install mixins..." from the "Actions" menu
 * via Github
-  * `git clone git@github.com:shrop/codebug.mixin.git ~/.chocolat/mixins/codebug.mixin`
+  * `git clone git@github.com:shrop/codebug-mixin.git ~/.chocolat/mixins/codebug.chocmixin`
   
 ## Usage
 * Access "Open in Codebug" via the "Go" menu or key binding ⇧⌘x
